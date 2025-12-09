@@ -2,13 +2,12 @@
   "Descriptor": {
     "UId": "196d6c1c-e13b-41c2-81ac-e8b39a8a31aa",
     "Name": "UsrYatch_ListPage",
-    "ModifiedOnUtc": "\/Date(1765286824000)\/",
+    "ModifiedOnUtc": "\/Date(1765308512000)\/",
     "Parent": {
       "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
       "Name": "ListPageV3Template"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Yatch list page",
-    "DependsOn": []
+    "Caption": "Yatch list page"
   }
 }
