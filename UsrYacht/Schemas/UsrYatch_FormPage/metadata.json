@@ -1,0 +1,8 @@
+= MetaData.Schema.UId "15f2a2d1-1f97-4f39-a2ed-5476f1b6980b"
+= MetaData.Schema.A2 "UsrYatch_FormPage"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+~ MetaData.Schema.B2 ["1baf401d-03f2-4037-aeb4-cef451d6ad7d","c296c10e-0a5a-492f-aa01-37b59a94f94d","c910f128-9398-4294-a1f1-4b9e0f976a6b","8bb2ad12-e2e4-4fdc-9431-16b911519bf3"]
+= MetaData.Schema.B6 "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2"
+= MetaData.Schema.HD1 "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false
