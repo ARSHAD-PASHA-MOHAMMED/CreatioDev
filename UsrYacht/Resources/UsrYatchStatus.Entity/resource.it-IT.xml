@@ -2,7 +2,8 @@
 <Resources Culture="it-IT">
 	<Group Type="String">
 		<Items>
-			<Item Name="Caption" Value="Yatch Status" />
+			<Item Name="Caption" Value="Oggetto" />
+			<Item Name="EventsProcessSchema.Caption" Value="Oggetto base" />
 		</Items>
 	</Group>
 </Resources>

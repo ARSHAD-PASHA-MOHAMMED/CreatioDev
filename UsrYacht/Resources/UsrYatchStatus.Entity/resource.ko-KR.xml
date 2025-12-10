@@ -2,7 +2,8 @@
 <Resources Culture="ko-KR">
 	<Group Type="String">
 		<Items>
-			<Item Name="Caption" Value="Yatch Status" />
+			<Item Name="Caption" Value="개체" />
+			<Item Name="EventsProcessSchema.Caption" Value="Base object" />
 		</Items>
 	</Group>
 </Resources>

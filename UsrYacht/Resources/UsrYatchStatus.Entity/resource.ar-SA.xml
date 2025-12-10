@@ -2,7 +2,8 @@
 <Resources Culture="ar-SA">
 	<Group Type="String">
 		<Items>
-			<Item Name="Caption" Value="Yatch Status" />
+			<Item Name="Caption" Value="كائن" />
+			<Item Name="EventsProcessSchema.Caption" Value="الكائن الأساسي" />
 		</Items>
 	</Group>
 </Resources>
