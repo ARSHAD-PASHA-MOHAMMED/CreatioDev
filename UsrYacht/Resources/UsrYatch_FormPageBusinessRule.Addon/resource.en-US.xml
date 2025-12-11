@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.c5c5d535-dbe8-4618-d2ec-a47a74122949.Caption" Value="Hide elements: More Details" />
+			<Item Name="Caption" Value="Yatch form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

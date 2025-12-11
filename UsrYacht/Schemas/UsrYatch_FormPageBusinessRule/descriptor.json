@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a2a06c9e-2186-40bb-b28a-3a5d09f14372",
+    "Name": "UsrYatch_FormPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1765449411000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Yatch form page (Business rules)",
+    "DependsOn": []
+  }
+}
